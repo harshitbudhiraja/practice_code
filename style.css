@@ -1,0 +1,56 @@
+header{
+    display:flex;
+    justify-content: space-between;
+}
+article{
+    display: flex;
+}
+li{
+    font-size: 1.5rem;
+    list-style: none;
+
+}
+nav{
+    position: relative;
+    left: -3rem;
+    right: 1rem;
+}
+nav{
+    width: 22rem;
+}
+
+footer{
+    background-color: white;
+}
+html{
+    font-family:monospace;
+}
+header h1{
+    font-weight: 800;
+}
+a:link,a:visited{
+    color:black;
+
+}
+a:hover,a:active
+{
+    color: red;
+}
+ul{
+    display: flex;
+    justify-content: space-between;
+}
+a{
+    text-decoration: none;
+}
+.container{
+    margin-right: 2rem;
+    text-align:center;
+}
+
+nav{
+    width: 22rem
+}
+p{
+    font-size: 1.5rem;
+}
